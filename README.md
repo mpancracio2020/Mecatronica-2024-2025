@@ -22,14 +22,14 @@
 
 # mecatronica-project
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+ -->
 
 
 <!-- PROJECT LOGO -->
@@ -39,10 +39,10 @@
     <img src="images/logo_con_fondo.png" alt="Logo" width="150" height="100">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Proyecto-Zeus.</h3>
 
   <p align="center">
-    Proyecto Zeus.
+    qqq
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
