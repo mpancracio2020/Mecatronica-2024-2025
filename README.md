@@ -36,13 +36,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo_con_fondo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo_con_fondo.png" alt="Logo" width="150" height="100">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Proyecto Zeus.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
