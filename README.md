@@ -52,3 +52,31 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Personal Blog</a>
   </p>
 </div>
+
+
+## Sesiones 3-4-5 | Diseño 2D.
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+En estas sesiones nos centramos en el diseño 2D. He aplicado los conocimientos en clase para diseñar un pequeño logo que decore el proyecto.
+Requisitos:
+* Inkscape.
+* Creatividad.
+
+<div align="center">
+  <a>
+    <img src="images/logo_sin_fondo.png" alt="Logo" width="650" height="200">
+  </a>
+
+<a> 
+    <img src="images/logo_con_fondo.png" alt="Logo" width="650" height="200">
+</a>
+
+</div>
+
+A continuacion os dejo un pequeño video de como lo hice: 
+
+Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#readme-top">inicio</a>)</p>
+
