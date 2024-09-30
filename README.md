@@ -20,7 +20,7 @@
 -->
 
 
-# mecatronica-project
+# Proyecto-Mecatronica 
 
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo_con_fondo.png" alt="Logo" width="250" height="200">
+    <img src="images/logo_con_fondo.png" alt="Logo" width="650" height="200">
   </a>
 
   <h3 align="center">Proyecto-Zeus.</h3>
