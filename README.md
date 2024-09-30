@@ -71,7 +71,7 @@ Requisitos:
 A continuacion os dejo un pequeño video de como lo hice: 
 
 
-https://github.com/user-attachments/assets/8f8db39f-342e-4875-a3b5-b4e1b96d93fc
+https://github.com/user-attachments/assets/d4b07c5d-308e-4ce0-a138-df33238a739b
 
 
 
