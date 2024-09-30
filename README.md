@@ -70,6 +70,11 @@ Requisitos:
 
 A continuacion os dejo un pequeño video de como lo hice: 
 
+
+https://github.com/user-attachments/assets/8f8db39f-342e-4875-a3b5-b4e1b96d93fc
+
+
+
 Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">inicio</a>)</p>
