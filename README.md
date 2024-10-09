@@ -42,7 +42,6 @@
   <h3 align="center">Proyecto-Zeus.</h3>
 
   <p align="center">
-    qqq
     <br />
     <a href="https://github.com/RoboTech-URJC/Mano-Zeus.git"><strong>Original Robotech Repo »</strong></a>
     <br />
@@ -73,9 +72,6 @@ A continuacion os dejo un pequeño video de como lo hice:
 
 https://github.com/user-attachments/assets/d4b07c5d-308e-4ce0-a138-df33238a739b
 
-
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">inicio</a>)</p>
 
