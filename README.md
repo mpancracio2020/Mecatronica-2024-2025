@@ -82,10 +82,10 @@ https://github.com/user-attachments/assets/d4b07c5d-308e-4ce0-a138-df33238a739b
 A continuación se muestran la imagenes de las primeras impresiones de los ficheros stl que nos proporciona el proyecto original.
 <div align="center">
   <a>
-    <img src="images/Mano.jpeg" alt="Logo" width="650" height="200">
+    <img src="images/Mano.jpeg" alt="Logo" width="350" height="200">
   </a>
  <a>
-    <img src="images/Antebrazo.jpeg" alt="Logo" width="650" height="200">
+    <img src="images/Antebrazo.jpeg" alt="Logo" width="350" height="200">
   </a>
 </div>
 
