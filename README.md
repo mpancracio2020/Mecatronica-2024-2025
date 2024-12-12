@@ -87,6 +87,13 @@ A continuación se muestran la imagenes de las primeras impresiones de los fiche
  <a>
     <img src="images/Antebrazo.jpeg" alt="Logo" width="350" height="350">
   </a>
+ <a>
+    <img src="images/Antebrazo2.jpeg" alt="Logo" width="350" height="350">
+  </a>
+ <a>
+    <img src="images/Brazo.jpeg" alt="Logo" width="350" height="350">
+  </a>
+
 </div>
 
 La totalidad de las impresiones de han hecho en una impresora <a href="https://www.creality.com/es/products/ender-3-3d-printer"><strong>Creality Ender 3 »</strong></a>
