@@ -78,11 +78,7 @@ https://github.com/user-attachments/assets/d4b07c5d-308e-4ce0-a138-df33238a739b
 ## Impresión 3D.
 
 * Primeras impresiones.
-<div align="center">
-  <a>
-    <video src="images/video2.mp4" alt="Logo" width="350" height="350">
-  </a>
-</div>
+ <video src="images/video2.mp4" alt="Logo" width="350" height="350">
 
 A continuación se muestran la imagenes de las primeras impresiones de los ficheros stl que nos proporciona el proyecto original.
 <div align="center">
