@@ -105,7 +105,7 @@ A continuación se muestran la imagenes de las primeras impresiones de los fiche
 
 La totalidad de las impresiones de han hecho en una impresora <a href="https://www.creality.com/es/products/ender-3-3d-printer"><strong>Creality Ender 3 »</strong></a>
 
-* Problmas y dificultades.
+* Problemas y dificultades.
 
 El mayor problema de todos a la hora de montar las piezas es el material de las mismas, PLA. Esto provocaba que a la hora de encajar o generar una fuerza sobre ellas que no estaba
 preparada para soportar, rompiamos la pieza. Han sido varias las piezas que se han vuelto a imprimir debido a roturas. 
