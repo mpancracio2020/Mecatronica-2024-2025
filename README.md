@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/d4b07c5d-308e-4ce0-a138-df33238a739b
 * Primeras impresiones.
 <div align="center">
   <a>
-    <img src="images/video2.mp4" alt="Logo" width="350" height="350">
+    <video src="images/video2.mp4" alt="Logo" width="350" height="350">
   </a>
 </div>
 
@@ -99,10 +99,10 @@ A continuación se muestran la imagenes de las primeras impresiones de los fiche
     <img src="images/Brazo.jpeg" alt="Logo" width="350" height="350">
   </a>
   <a>
-    <img src="images/f1" alt="Logo" width="350" height="350">
+    <img src="images/f1.jpeg" alt="Logo" width="350" height="350">
   </a>
   <a>
-    <img src="images/f2" alt="Logo" width="350" height="350">
+    <img src="images/f2.jpeg" alt="Logo" width="350" height="350">
   </a>
 
 </div>
